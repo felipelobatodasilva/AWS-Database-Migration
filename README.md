@@ -1,5 +1,9 @@
 # AWS-Database-Migration
-# Table of Contents  
-● [Preparing Database to Make a Full Backup](#preparingdatabasetomake)
 
-# Preparing Database to Make a Full Backup <a name="preparingdatabasetomake"></a>
+For this migration, We'll use AWS Database Migration Service (DMS) and many other Services like IAM, EC2, S3 and RDS. All of these services mentioned recently can be used under AWS free tier which offers some different services from AWS for free, in order to explore many of them.
+
+Three different types of free offers are available depending on the product used. Click icon below to explore our offers.
+# Table of Contents  
+● [Migrating Data from On-Premise Database to S3](#migratingdatafromonpremise)
+
+# Migrating Data from On-Premise Database to S3 <a name="migratingdatafromonpremise"></a>
