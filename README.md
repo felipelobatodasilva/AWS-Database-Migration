@@ -62,4 +62,6 @@ After that, click on Create Database button
 
 <img src="https://user-images.githubusercontent.com/69978184/144347842-a60ac04c-8154-4826-a923-81abbe72cd6c.png" width="800" height="400"/>
 
-In this step for the creation, be smart with the Postgres version, depending on the version you choose, the free tier is no longer available, that is why you have to be smart when creating this RDS on free tier mode
+In this step for the creation, be smart with the Postgres version, depending on the version you choose, the free tier is no longer available, that is why you have to be smart when creating this RDS on free tier mode, as follows below
+
+<img src="https://user-images.githubusercontent.com/69978184/144349314-97929957-df27-44ba-9a9a-d3749ed6f879.png" width="800" height="400"/>
