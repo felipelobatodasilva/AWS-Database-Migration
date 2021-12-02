@@ -80,3 +80,5 @@ then create the database and you will get something like this
 ## Launching an EC2 instance <a name="launchingEC2"></a>
 
 To create an EC2 instance on Console just look for EC2 by typing it.
+
+After that, just follow this [step-by-step guide](https://www.guru99.com/creating-amazon-ec2-instance.html) to launch an EC2
