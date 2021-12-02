@@ -26,4 +26,6 @@ and then, just click on the orange button which description is "Create Bucket" i
 
 ### AWS Toolkit for Visual Studio Code
 
-To do this procedure is needed to install [VS Code](https://code.visualstudio.com/download) on your local Machine
+To do this procedure is needed to install [VS Code](https://code.visualstudio.com/download) on your local Machine.
+
+Once you've installed VSCode, some steps will be needed from now on. The First One is how to [set up the AWS Credentials](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-credentials.html) on your Local Machine
