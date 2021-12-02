@@ -66,6 +66,6 @@ In this step for the creation, be smart with the Postgres version, depending on 
 
 <img src="https://user-images.githubusercontent.com/69978184/144349314-97929957-df27-44ba-9a9a-d3749ed6f879.png" width="800" height="400"/>
 
-and then, keep going by filling those informations required fields. Just notice once you've selected free tier mode, many of these fields will be already filled for this mentioned mode.
+and then, keep going by filling those informations required fields. Just notice once you've selected free tier mode, many of these fields will be already filled for this mode mentioned.
 
 <img src="https://user-images.githubusercontent.com/69978184/144349982-4b433035-75f7-4d0b-90d8-4b8d0f195b7e.png" width="800" height="400"/>
