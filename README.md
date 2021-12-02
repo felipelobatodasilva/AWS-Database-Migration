@@ -38,7 +38,7 @@ Once you've installed VSCode, some steps will be needed from now on.
 
 Once you've already foloowed the step-by-step guide above, if you acess your VSCode, you may see something like this:
 
-<img src="https://user-images.githubusercontent.com/69978184/144343625-8553c492-8bcf-4a85-8b3e-8567acfcafe7.png" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144343625-8553c492-8bcf-4a85-8b3e-8567acfcafe7.png" width="8000" height="400"/>
 
 It means that the connection between cloud and local machine has been completed Successfully.
 
