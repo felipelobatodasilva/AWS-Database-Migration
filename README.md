@@ -55,3 +55,5 @@ The name I chose is dbdmsbucketforcsv as folows
 As you can see, it was created normally.
 
 ## Creating Postgres RDS <a name="creatingRDS"></a>
+
+To create a RDS on Console just look for RDS by typing it.
