@@ -35,3 +35,10 @@ Once you've installed VSCode, some steps will be needed from now on.
 2) How to [set up the AWS Credentials](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-credentials.html) on your Local Machine
 
 3) [Connecting to AWS through the AWS Toolkit for Visual Studio Code](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/connect.html)
+
+Once you've already foloowed the step-by-step guide above, if you acess your VSCode, you may see something like this:
+
+<img src="https://user-images.githubusercontent.com/69978184/144343625-8553c492-8bcf-4a85-8b3e-8567acfcafe7.png" width="1000" height="400"/>
+
+It means that the connection between cloud and local machine has been completed Successfully
+
