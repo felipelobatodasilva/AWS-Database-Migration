@@ -77,4 +77,4 @@ then create the database and you will get something like this
 
 <img src="https://user-images.githubusercontent.com/69978184/144351554-bd13a3b2-a563-48d9-a282-5f8dff88612f.png" width="800" height="400"/>
 
-## Creating EC2 <a name="launchingEC2"></a>
+## Launching an EC2 instance <a name="launchingEC2"></a>
