@@ -22,7 +22,7 @@ To create a S3 bucket on Console just look for s3 by typing it.
 
 and then, just click on the orange button which description is "Create Bucket" in order to create bucket.
 
-<img src="https://user-images.githubusercontent.com/69978184/144336501-3de8091d-e40e-4aaa-b7e2-c01f9573d508.png" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144336501-3de8091d-e40e-4aaa-b7e2-c01f9573d508.png" width="800" height="400"/>
 
 ### AWS Toolkit for Visual Studio Code
 
