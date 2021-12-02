@@ -16,4 +16,8 @@ You can choose two different ways for the s3 bucket creation. The first one can 
 
 ### AWS Management Console
 
+To create a S3 bucket on Console just look for the name s3 
+
+<img src="(https://user-images.githubusercontent.com/69978184/144335790-b755cc37-3e31-4671-8617-c105bb6dd17b.png" width="500" height="400"/>
+
 ### AWS Toolkit for Visual Studio Code
