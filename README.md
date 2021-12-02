@@ -25,3 +25,5 @@ and then, just click on the orange button which description is "Create Bucket" i
 <img src="https://user-images.githubusercontent.com/69978184/144336501-3de8091d-e40e-4aaa-b7e2-c01f9573d508.png" width="1000" height="400"/>
 
 ### AWS Toolkit for Visual Studio Code
+
+To do this procedure is needed to install [VS Code](https://code.visualstudio.com/download) on your local Machine
