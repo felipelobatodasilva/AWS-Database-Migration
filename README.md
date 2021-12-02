@@ -44,6 +44,12 @@ It means that the connection between cloud and local machine has been completed 
 
 Now, you can just click on the bucket object as shown on the image close s3
 
-and then give the bucket name as want
-
+and then give the bucket name as you want
 <img src="https://user-images.githubusercontent.com/69978184/144344451-90440fb8-4511-42b1-8255-f2eae7c4bce4.png" width="800" height="400"/>
+
+The name I chose is dbdmsbucketforcsv as folows
+
+<img src="https://user-images.githubusercontent.com/69978184/144345083-84ab18e9-a6b3-4a17-8937-f24edc7ed764.png" width="800" height="400"/>
+
+As you can see, it was created normally.
+
