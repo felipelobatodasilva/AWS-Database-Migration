@@ -44,7 +44,6 @@ It means that the connection between cloud and local machine has been completed 
 
 Now, you can just click on the bucket object as shown on the image close s3
 
-<img src="https://user-images.githubusercontent.com/69978184/144343625-8553c492-8bcf-4a85-8b3e-8567acfcafe7.png" width="1000" height="400"/>
-(https://user-images.githubusercontent.com/69978184/144344081-8e7b9b47-ddd6-4276-9f9d-615cfa95499b.png
+and then give the bucket name as want
 
-![image](https://user-images.githubusercontent.com/69978184/144344451-90440fb8-4511-42b1-8255-f2eae7c4bce4.png)
+<img src="https://user-images.githubusercontent.com/69978184/144344451-90440fb8-4511-42b1-8255-f2eae7c4bce4.png" width="800" height="400"/>
