@@ -14,8 +14,6 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 
 You can choose two different ways for the s3 bucket creation. The first one can be done either AWS Management Console or AWS Toolkit for Visual Studio Code.
 
-At first, I will show you how to do it in both cases.
-
 ### AWS Management Console
 
 ### AWS Toolkit for Visual Studio Code
