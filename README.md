@@ -61,3 +61,5 @@ To create a RDS Database click on Search Console and just look for RDS by typing
 After that, click on Create Database button
 
 <img src="https://user-images.githubusercontent.com/69978184/144347842-a60ac04c-8154-4826-a923-81abbe72cd6c.png" width="800" height="400"/>
+
+In this step for the creation, be smart with the Postgres version, depending on the version you choose, the free tier is no longer available, that is why you have to be smart when creating this RDS on free tier mode
