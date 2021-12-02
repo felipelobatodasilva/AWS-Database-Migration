@@ -69,3 +69,7 @@ In this step for the creation, be smart with the Postgres version, depending on 
 and then, keep going by filling those informations required fields. Just notice once you've selected free tier mode, many of these fields will be already filled for this mode mentioned.
 
 <img src="https://user-images.githubusercontent.com/69978184/144349982-4b433035-75f7-4d0b-90d8-4b8d0f195b7e.png" width="800" height="400"/>
+
+then create the database and you will get something like this
+
+<img src="https://user-images.githubusercontent.com/69978184/144350657-3c26f156-3005-4e4b-9b84-4f2badfd68c0.png" width="800" height="400"/>
