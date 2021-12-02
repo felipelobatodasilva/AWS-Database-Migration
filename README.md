@@ -28,4 +28,9 @@ and then, just click on the orange button which description is "Create Bucket" i
 
 To do this procedure is needed to install [VS Code](https://code.visualstudio.com/download) on your local Machine.
 
-Once you've installed VSCode, some steps will be needed from now on. The First One is how to [set up the AWS Credentials](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-credentials.html) on your Local Machine
+Once you've installed VSCode, some steps will be needed from now on. 
+
+1) [Obtaining AWS Acess Keys](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/obtain-credentials.html)
+
+2) how to [set up the AWS Credentials](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-credentials.html) on your Local Machine
+
