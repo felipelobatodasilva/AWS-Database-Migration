@@ -11,3 +11,7 @@ All of these services mentioned recently can be used under AWS free tier which o
 # Migrating Data from On-Premise Database to S3 <a name="migratingdatafromonpremise"></a>
 
 ## Creating S3 Bucket <a name="creatings3bucket"></a>
+
+You can choose two different ways for the s3 bucket creating. The first one can be done either AWS Management Console or AWS Toolkit for Visual Studio Code.
+
+At first, I will show you how to do it in both cases.
