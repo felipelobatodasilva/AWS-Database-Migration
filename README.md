@@ -73,3 +73,5 @@ and then, keep going by filling those informations required fields. Just notice 
 then create the database and you will get something like this
 
 <img src="https://user-images.githubusercontent.com/69978184/144350657-3c26f156-3005-4e4b-9b84-4f2badfd68c0.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144351554-bd13a3b2-a563-48d9-a282-5f8dff88612f.png" width="800" height="400"/>
