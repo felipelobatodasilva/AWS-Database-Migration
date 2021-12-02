@@ -56,4 +56,8 @@ As you can see, it was created normally.
 
 ## Creating Postgres RDS <a name="creatingRDS"></a>
 
-To create a RDS on Console just look for RDS by typing it.
+To create a RDS Database click on Search Console and just look for RDS by typing it.
+
+After that, click on Create Database
+
+<img src="https://user-images.githubusercontent.com/69978184/144347842-a60ac04c-8154-4826-a923-81abbe72cd6c.png" width="800" height="400"/>
