@@ -2,7 +2,7 @@
 
 For this migration, We'll use AWS Database Migration Service (DMS) and many other Services like IAM, EC2, S3 and RDS. 
 
-All of these services mentioned recently can be used under AWS free tier which offers some different services from AWS for free, in order to explore many of them.
+All of these services mentioned recently can be used under AWS Free Tier which offers some different services from AWS for free, in order to explore many of them.
 
 # Table of Contents  
 ● [Migrating Data from On-Premise Database to S3](#migratingdatafromonpremise)<br/>
@@ -15,3 +15,7 @@ All of these services mentioned recently can be used under AWS free tier which o
 You can choose two different ways for the s3 bucket creation. The first one can be done either AWS Management Console or AWS Toolkit for Visual Studio Code.
 
 At first, I will show you how to do it in both cases.
+
+### AWS Management Console
+
+### AWS Toolkit for Visual Studio Code
