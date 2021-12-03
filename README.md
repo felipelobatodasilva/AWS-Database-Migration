@@ -94,12 +94,9 @@ For now, let is connect to our EC2 instance recently create. For that, just go t
 
 <img src="https://user-images.githubusercontent.com/69978184/144669273-1224e820-d0f8-48ad-b83a-0073247223ce.png" width="800" height="400"/>
 
-Then a new windows will be opened and there is where you'll need to install the PostgresSQL via terminal
-
+Then a new windows will be opened via browser terminal
 <img src="https://user-images.githubusercontent.com/69978184/144669686-085d81d6-b391-4732-8ee8-21dc9f0bce33.png" width="800" height="400"/>
 
-You may change the from EC2 user to Root user by using "Sudo su" on the screen
+there is also another way to open this terminal via Windows and this one will be applied than the first option for this case. 
 
-<img src="https://user-images.githubusercontent.com/69978184/144672898-28ab6683-cb9b-4b28-967e-cfe58b388107.png" width="600" height="200"/>
-
-Once you've already accessed the root user, type on the terminal the following command "yum install -y https://download.postgresql.org/pub/repos/yum/11/redhat/rhel-6-x86_64/postgresql11-libs-11.13-1PGDG.rhel6.x86_64.rpm ([reference](https://stackoverflow.com/questions/57290642/how-to-install-postgresql-11-in-amazon-linux-ami)) which is the same version we installed for RDS.
+If you wanna use the first option, feel free and choose that suits you best 
