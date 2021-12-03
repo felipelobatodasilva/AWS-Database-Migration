@@ -10,6 +10,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 &emsp;◌ [Creating Postgres RDS](#creatingRDS)<br/>
 &emsp;◌ [Launching an EC2 instance](#launchingEC2)<br/>
 &emsp;◌ [Connecting EC2 instance](#connectingEC2)<br/>
+&emsp;◌ [Connecting RDS locally with PGAdmin](#connectingRDS)<br/>
 
 # Migrating Data from On-Premise Database to S3 <a name="migratingdatafromonpremise"></a>
 
@@ -107,3 +108,5 @@ Do you remember that file.pem generated after EC2 instance creation? Yes, you'll
 After following the step-by-step above, the appearence of your screen will be like:
 
 <img src="https://user-images.githubusercontent.com/69978184/144681178-793cc1b8-2c5e-49ef-ad37-2fd5e78d110e.png" width="800" height="400"/>
+
+## Connecting RDS locally with PGAdmin <a name="connectingRDS"></a>
