@@ -98,6 +98,8 @@ Then a new windows will be opened and there is where you'll need to install the 
 
 <img src="https://user-images.githubusercontent.com/69978184/144669686-085d81d6-b391-4732-8ee8-21dc9f0bce33.png" width="800" height="400"/>
 
-You may change the from EC2 user to Root user by usingo "Sudo su" on the screen
+You may change the from EC2 user to Root user by using "Sudo su" on the screen
 
 <img src="https://user-images.githubusercontent.com/69978184/144672898-28ab6683-cb9b-4b28-967e-cfe58b388107.png" width="600" height="200"/>
+
+Once you've already accessed the root user, type on the terminal the following command "yum install -y [https://download.postgresql.org/pub/repos/yum/11/redhat/rhel-6-x86_64/postgresql11-libs-11.13-1PGDG.rhel6.x86_64.rpm](yum install -y https://download.postgresql.org/pub/repos/yum/11/redhat/rhel-6-x86_64/postgresql11-libs-11.13-1PGDG.rhel6.x86_64.rpm)" which is the same version we installed for RDS.
