@@ -82,3 +82,5 @@ then create the database and you will get something like this
 To create an EC2 instance on Console just look for EC2 by typing it.
 
 After that, just follow this [step-by-step guide](https://www.guru99.com/creating-amazon-ec2-instance.html) to launch an EC2 instance
+
+With its creation, this one will need to have the same VPC, consequently its security group needs to have the same ports 22 and 5432(belonging to Postgres) like on the RDS DB Instance created. To check this out better and how to do this staff correctly, just click on this [link](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/) 
