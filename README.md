@@ -91,3 +91,5 @@ With its creation, this one will need to have the same VPC, consequently its sec
 For now, let is connect to our EC2 instance recently create. For that, just go thorugh console and look for EC2 again and select the EC2 by checking the box, thus click on connect button to start the connection
 
 <img src="https://user-images.githubusercontent.com/69978184/144669132-dacc2a51-12e3-4865-b4e1-08de2e7c7a6e.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144669273-1224e820-d0f8-48ad-b83a-0073247223ce.png" width="800" height="400"/>
