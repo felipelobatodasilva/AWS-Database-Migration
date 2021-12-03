@@ -101,4 +101,4 @@ there is also another way to open this terminal via Windows and this one will be
 
 If you wanna use the first option, feel free and choose that suits you best
 
-Do you remember that file.pem generated after EC2 instance creation? Yes, you'll need to use that one as mentioned [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html), right now
+Do you remember that file.pem generated after EC2 instance creation? Yes, you'll need to use that one as mentioned [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html) or [here](https://positive-stud.medium.com/how-to-use-putty-to-connect-to-your-amazon-ec2-instance-96468ce592c1), right now
