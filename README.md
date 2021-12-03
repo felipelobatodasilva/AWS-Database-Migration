@@ -93,3 +93,8 @@ For now, let is connect to our EC2 instance recently create. For that, just go t
 <img src="https://user-images.githubusercontent.com/69978184/144669132-dacc2a51-12e3-4865-b4e1-08de2e7c7a6e.png" width="800" height="400"/>
 
 <img src="https://user-images.githubusercontent.com/69978184/144669273-1224e820-d0f8-48ad-b83a-0073247223ce.png" width="800" height="400"/>
+
+Then a new windows will be opened and there is where you'll need to install the PostgresSQL via terminal
+
+<img src="https://user-images.githubusercontent.com/69978184/144669686-085d81d6-b391-4732-8ee8-21dc9f0bce33.png" width="800" height="400"/>
+
