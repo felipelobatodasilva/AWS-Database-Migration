@@ -98,3 +98,6 @@ Then a new windows will be opened and there is where you'll need to install the 
 
 <img src="https://user-images.githubusercontent.com/69978184/144669686-085d81d6-b391-4732-8ee8-21dc9f0bce33.png" width="800" height="400"/>
 
+You may change the from EC2 user to Root user by usingo "Sudo su" on the screen
+
+<img src="https://user-images.githubusercontent.com/69978184/144672898-28ab6683-cb9b-4b28-967e-cfe58b388107.png" width="800" height="400"/>
