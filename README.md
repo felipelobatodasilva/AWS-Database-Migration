@@ -95,6 +95,7 @@ For now, let is connect to our EC2 instance recently create. For that, just go t
 <img src="https://user-images.githubusercontent.com/69978184/144669273-1224e820-d0f8-48ad-b83a-0073247223ce.png" width="800" height="400"/>
 
 Then a new windows will be opened via browser terminal
+
 <img src="https://user-images.githubusercontent.com/69978184/144669686-085d81d6-b391-4732-8ee8-21dc9f0bce33.png" width="800" height="400"/>
 
 there is also another way to open this terminal via Windows and this one will be applied than the first option for this case. 
@@ -102,3 +103,7 @@ there is also another way to open this terminal via Windows and this one will be
 If you wanna use the first option, feel free and choose that suits you best
 
 Do you remember that file.pem generated after EC2 instance creation? Yes, you'll need to use that one as mentioned [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html) or [here](https://positive-stud.medium.com/how-to-use-putty-to-connect-to-your-amazon-ec2-instance-96468ce592c1), right now
+
+After following the step-by-step above, the appearence of your screen will be like:
+
+<img src="https://user-images.githubusercontent.com/69978184/144681178-793cc1b8-2c5e-49ef-ad37-2fd5e78d110e.png" width="800" height="400"/>
