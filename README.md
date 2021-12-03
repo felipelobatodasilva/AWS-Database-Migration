@@ -9,6 +9,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 &emsp;◌ [Creating S3 Bucket](#creatings3bucket)<br/>
 &emsp;◌ [Creating Postgres RDS](#creatingRDS)<br/>
 &emsp;◌ [Launching an EC2 instance](#launchingEC2)<br/>
+&emsp;◌ [Connecting EC2 instance](#connectingEC2)<br/>
 
 # Migrating Data from On-Premise Database to S3 <a name="migratingdatafromonpremise"></a>
 
@@ -84,3 +85,5 @@ To create an EC2 instance on Console just look for EC2 by typing it.
 After that, just follow this [step-by-step guide](https://www.guru99.com/creating-amazon-ec2-instance.html) to launch an EC2 instance
 
 With its creation, this one will need to have the same VPC, consequently its security group needs to have the same ports 22 and 5432(belonging to Postgres) like on the RDS DB Instance created. To check this out better and how to do this staff correctly, just click on this [link](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/) 
+
+## Connecting to EC2 instance <a name="connectingEC2"></a>
