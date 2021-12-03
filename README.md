@@ -110,3 +110,11 @@ After following the step-by-step above, the appearence of your screen will be li
 <img src="https://user-images.githubusercontent.com/69978184/144681178-793cc1b8-2c5e-49ef-ad37-2fd5e78d110e.png" width="800" height="400"/>
 
 ## Connecting RDS locally with PGAdmin <a name="connectingRDS"></a>
+
+Start your pgAdmin and create your server in order to connect your RDS DB locally.
+
+If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
+
+a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-unable-to-connect-to-server-timeout-expired)
+b) [Second Link](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html#cfn-rds-dbinstance-publiclyaccessible)
+c) [Third Link](https://stackoverflow.com/questions/61062027/aws-rds-to-pgadmin-error-saving-properties-unable-to-connect-to-server-timeout)
