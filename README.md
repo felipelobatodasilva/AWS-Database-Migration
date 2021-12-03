@@ -99,4 +99,6 @@ Then a new windows will be opened via browser terminal
 
 there is also another way to open this terminal via Windows and this one will be applied than the first option for this case. 
 
-If you wanna use the first option, feel free and choose that suits you best 
+If you wanna use the first option, feel free and choose that suits you best
+
+Do you remember that file.pem generated after EC2 instance creation? Yes, you'll need to use that one as mentioned [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
