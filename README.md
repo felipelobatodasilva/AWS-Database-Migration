@@ -163,6 +163,7 @@ To finish this step, give a role name to it and click on "Create Role"
 <img src="https://user-images.githubusercontent.com/69978184/144691350-b68ef6a6-be0e-407a-a0fd-81990c86f5c4.png" width="800" height="400"/>
 
 It's been created sucessfully
+
 <img src="https://user-images.githubusercontent.com/69978184/144691492-d4c40138-6ba8-4903-9cf8-9164d24c3c6d.png" width="800" height="400"/>
 
 but let's don't forget the RDS acess at all! So, let is do it :)
