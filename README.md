@@ -174,3 +174,7 @@ For that, click on Attach Policies button and look for RDS to select "AmazonRDSF
 <img src="https://user-images.githubusercontent.com/69978184/144691752-b0e90a20-ba98-4ace-93d8-5eeb65b26b62.png" width="800" height="400"/>
 
 ## Creating a Replication Instance on DMS <a name="creatingreplication"></a>
+
+Go to DMS section and click on replication instance.
+
+<img src="https://user-images.githubusercontent.com/69978184/144692128-718fe58e-202d-496a-a8c0-a177f007f29b.png" width="800" height="400"/>
