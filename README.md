@@ -120,6 +120,7 @@ once you obtained this endpoint, copy it and go to your pgAdmin Creation Server 
 <img src="https://user-images.githubusercontent.com/69978184/144687990-18799401-42eb-4006-a71f-3c00c1cefee9.png" width="500" height="400"/>
 
 and it's done.
+
 <img src="https://user-images.githubusercontent.com/69978184/144688268-8f4f6a83-c0c6-4b6b-b2f7-fb62dcaa53c9.png" width="800" height="400"/>
 
 If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
