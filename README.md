@@ -188,7 +188,9 @@ Go to DMS section and click on replication instance and follow the steps below
 
 <img src="https://user-images.githubusercontent.com/69978184/144692809-ff26710a-c6c1-45cb-942a-dc21aa55ea89.png" width="800" height="400"/>
 
-and then create an endpoint 
+and then create the end point for source and target
+
+1) Source
 
 <img src="https://user-images.githubusercontent.com/69978184/144692932-31a39ba8-d23a-4de0-9d46-e09034ef6781.png" width="800" height="400"/>
 
@@ -206,3 +208,12 @@ Goods news! Endpoint has been created successfully
 
 <img src="https://user-images.githubusercontent.com/69978184/144693405-9704bf3d-3377-449f-95d0-e6235fbb7ce7.png" width="800" height="400"/>
 
+2) Target
+
+For target endpoint is requested that ARN given when the role was created previously on this tutorial. Don't forget to copy and paste it over here.
+
+<img src="https://user-images.githubusercontent.com/69978184/144693656-a9e59ddc-72f4-495d-aa4f-c640298edbef.png" width="800" height="400"/>
+
+let is do a new test for this target endpoint as well it has been done for the source endpoint
+
+<img src="https://user-images.githubusercontent.com/69978184/144693700-23d9d387-6116-4115-aceb-e0a4ab258e53.png" width="800" height="400"/>
