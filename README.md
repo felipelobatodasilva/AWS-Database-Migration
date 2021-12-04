@@ -14,6 +14,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 
 ● [Migrating Data from RDS DB instance to S3](#migratingdatafromRDS)<br/>
 &emsp;◌ [Creating IAM Role for S3 and RDS](#creatingIAMrole)<br/>
+&emsp;◌ [Creating a Replication Instance](#creatingreplication)<br/>
 
 # Preparing The Environment For The Migration <a name="preparingenvironment"></a>
 
