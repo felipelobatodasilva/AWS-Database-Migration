@@ -148,8 +148,9 @@ Now on the query tool, we'll import the file mentioned previously here and run t
 
 ## Creating IAM Role for S3 and RDS <a name="creatingIAMrole"></a>
 
-Go to IAM section and click on create a role and select the AWS Service called DMS
+Go to IAM section and click on create a role and select the AWS Service called DMS and click on Next:Permissions
 
 <img src="https://user-images.githubusercontent.com/69978184/144690764-d1e1a814-714c-456a-982f-27b1220bae84.png" width="800" height="400"/>
 
 <img src="https://user-images.githubusercontent.com/69978184/144690966-790bb8e7-a996-4d1b-bb88-86dbb6639de7.png" width="800" height="400"/>
+
