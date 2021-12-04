@@ -119,6 +119,8 @@ once you obtained this endpoint, copy it and go to your pgAdmin Creation Server 
 
 <img src="https://user-images.githubusercontent.com/69978184/144687990-18799401-42eb-4006-a71f-3c00c1cefee9.png" width="500" height="400"/>
 
+and it's done.
+
 If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
 
 a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-unable-to-connect-to-server-timeout-expired)<br/>
