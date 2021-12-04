@@ -123,7 +123,7 @@ and it's done.
 
 <img src="https://user-images.githubusercontent.com/69978184/144688268-8f4f6a83-c0c6-4b6b-b2f7-fb62dcaa53c9.png" width="800" height="400"/>
 
-If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
+If you are facing some issues by setting it up, I recommend to read these three links, I'm sure that they may help you out :)
 
 a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-unable-to-connect-to-server-timeout-expired)<br/>
 b) [Second Link](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html#cfn-rds-dbinstance-publiclyaccessible)<br/>
