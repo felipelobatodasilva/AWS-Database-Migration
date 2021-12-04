@@ -14,7 +14,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 
 ● [Migrating Data from RDS DB instance to S3](#migratingdatafromRDS)<br/>
 &emsp;◌ [Creating IAM Role for S3 and RDS](#creatingIAMrole)<br/>
-&emsp;◌ [Creating a Replication Instance](#creatingreplication)<br/>
+&emsp;◌ [Creating a Replication Instance on DMS](#creatingreplication)<br/>
 
 # Preparing The Environment For The Migration <a name="preparingenvironment"></a>
 
@@ -172,3 +172,5 @@ For that, click on Attach Policies button and look for RDS to select "AmazonRDSF
 <img src="https://user-images.githubusercontent.com/69978184/144691538-8851b245-e66d-44c9-8e65-e04edc3ce289.png" width="800" height="400"/>
 
 <img src="https://user-images.githubusercontent.com/69978184/144691752-b0e90a20-ba98-4ace-93d8-5eeb65b26b62.png" width="800" height="400"/>
+
+## Creating a Replication Instance on DMS <a name="creatingreplication"></a>
