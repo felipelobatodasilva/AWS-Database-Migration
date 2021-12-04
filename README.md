@@ -148,6 +148,6 @@ Now on the query tool, we'll import the file mentioned previously here and run t
 
 ## Creating IAM Role for S3 and RDS <a name="creatingIAMrole"></a>
 
-Go to IAM section and create a Role
+Go to IAM section and click on create a role
 
 <img src="https://user-images.githubusercontent.com/69978184/144690764-d1e1a814-714c-456a-982f-27b1220bae84.png" width="800" height="400"/>
