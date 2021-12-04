@@ -1,4 +1,4 @@
-# AWS-Database-Migration
+# AWS-Database-Migration-Postgres
 
 For this migration, We'll use AWS Database Migration Service (DMS) and many other Services like IAM, EC2, S3 and RDS. 
 
