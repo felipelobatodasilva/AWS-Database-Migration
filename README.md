@@ -147,3 +147,7 @@ Now on the query tool, we'll import the file mentioned previously here and run t
 # Migrating Data from RDS DB instance to S3 <a name="migratingdatafromRDS"></a>
 
 ## Creating IAM Role for S3 and RDS <a name="creatingIAMrole"></a>
+
+Go to IAM section and create a Role
+
+<img src="https://user-images.githubusercontent.com/69978184/144690764-d1e1a814-714c-456a-982f-27b1220bae84.png" width="800" height="400"/>
