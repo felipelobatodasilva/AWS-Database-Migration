@@ -139,7 +139,6 @@ Now on the query tool, we'll import the file mentioned previously here and run t
 
 <img src="https://user-images.githubusercontent.com/69978184/144688944-4a53fca3-1af9-4581-a2ef-61091324f2b8.png" width="800" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/69978184/144688779-06e76bd6-a1f2-483c-8341-9a2b96305ab0.png" width="800" height="400"/>
-
+<img src="https://user-images.githubusercontent.com/69978184/144689464-d8134ed4-cd10-40c6-b9a4-de77c1de90d0.png" width="800" height="400"/>
 
 
