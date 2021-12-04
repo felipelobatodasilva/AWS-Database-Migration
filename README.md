@@ -191,3 +191,5 @@ Go to DMS section and click on replication instance and follow the steps below
 and then create an endpoint 
 
 <img src="https://user-images.githubusercontent.com/69978184/144692932-31a39ba8-d23a-4de0-9d46-e09034ef6781.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144693028-0248e0d8-5aac-4460-8eb1-a81cc14a0b53.png" width="800" height="400"/>
