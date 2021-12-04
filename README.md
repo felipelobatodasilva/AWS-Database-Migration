@@ -166,5 +166,5 @@ It's been created sucessfully
 
 but let's don't forget the RDS acess at all! So, let is do it :)
 
-For that, Click on Attach Policies button
+For that, click on Attach Policies button
 <img src="https://user-images.githubusercontent.com/69978184/144691538-8851b245-e66d-44c9-8e65-e04edc3ce289.png" width="800" height="400"/>
