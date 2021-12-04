@@ -181,4 +181,6 @@ Go to DMS section and click on replication instance and follow the steps below
 
 <img src="https://user-images.githubusercontent.com/69978184/144692446-40208922-ed5d-46d3-b2d0-934ab351527a.png" width="800" height="400"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/144692516-a53b96d0-b0ea-426f-8771-6ba3afd5b639.png" width="800" height="400"/>
+
 
