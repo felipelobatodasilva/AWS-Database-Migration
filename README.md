@@ -13,6 +13,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 &emsp;◌ [Connecting RDS locally with PGAdmin and Setting up Database](#connectingRDS)<br/>
 
 ● [Migrating Data from RDS DB instance to S3](#migratingdatafromRDS)<br/>
+&emsp;◌ [Creating IAM Role for S3 and RDS](#creatingIAMrole)<br/>
 
 # Preparing The Environment For The Migration <a name="preparingenvironment"></a>
 
@@ -144,3 +145,5 @@ Now on the query tool, we'll import the file mentioned previously here and run t
 <img src="https://user-images.githubusercontent.com/69978184/144689464-d8134ed4-cd10-40c6-b9a4-de77c1de90d0.png" width="800" height="400"/>
 
 # Migrating Data from RDS DB instance to S3 <a name="migratingdatafromRDS"></a>
+
+## Creating IAM Role for S3 and RDS <a name="creatingIAMrole"></a>
