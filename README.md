@@ -201,3 +201,8 @@ Before carrying out, you can do a test in order to check wether the connection w
 <img src="https://user-images.githubusercontent.com/69978184/144693185-ba348757-d92b-4be5-9797-614f8e20f53f.png" width="800" height="400"/>
 
 <img src="https://user-images.githubusercontent.com/69978184/144693346-6dd99988-5e4b-492d-8605-eeec58ab06b1.png" width="800" height="400"/>
+
+Goods news! Endpoint has been created successfully
+
+<img src="https://user-images.githubusercontent.com/69978184/144693405-9704bf3d-3377-449f-95d0-e6235fbb7ce7.png" width="800" height="400"/>
+
