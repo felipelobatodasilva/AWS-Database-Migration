@@ -129,3 +129,17 @@ a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-un
 b) [Second Link](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html#cfn-rds-dbinstance-publiclyaccessible)<br/>
 c) [Third Link](https://stackoverflow.com/questions/61062027/aws-rds-to-pgadmin-error-saving-properties-unable-to-connect-to-server-timeout)<br/>
 
+Before going to the next section, let's set up the database. For that, I shared a file whose name is SportsDB.sql in this repository to prepare our SportsDB Database, just download it in order to be created
+
+![image](https://user-images.githubusercontent.com/69978184/144688762-86fcaf16-b506-4b22-8c95-269153e7d170.png)
+
+![image](https://user-images.githubusercontent.com/69978184/144688779-06e76bd6-a1f2-483c-8341-9a2b96305ab0.png)
+
+Now on the query tool, we'll import the file mentioned previously here and run the query.
+
+![image](https://user-images.githubusercontent.com/69978184/144688944-4a53fca3-1af9-4581-a2ef-61091324f2b8.png)
+
+
+![image](https://user-images.githubusercontent.com/69978184/144689214-2b459ed7-531d-47a7-8905-7c63fd6d0f65.png)
+
+
