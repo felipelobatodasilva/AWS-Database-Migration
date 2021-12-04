@@ -117,7 +117,7 @@ Start your pgAdmin and create your server in order to connect your RDS DB locall
 
 once you obtained this endpoint, copy it and go to your pgAdmin Creation Server to paste it over there
 
-<img src="https://user-images.githubusercontent.com/69978184/144687990-18799401-42eb-4006-a71f-3c00c1cefee9.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144687990-18799401-42eb-4006-a71f-3c00c1cefee9.png" width="600" height="400"/>
 
 If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
 
