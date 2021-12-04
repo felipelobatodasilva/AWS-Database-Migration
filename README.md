@@ -196,4 +196,8 @@ and then create an endpoint
 
 <img src="https://user-images.githubusercontent.com/69978184/144693068-628bde29-867a-43e2-8454-b5a76f34ebf6.png" width="800" height="400"/>
 
+Before carrying out, you can do a test in order to check wether the connection will work properly or not
+
+<img src="https://user-images.githubusercontent.com/69978184/144693185-ba348757-d92b-4be5-9797-614f8e20f53f.png" width="800" height="400"/>
+
 
