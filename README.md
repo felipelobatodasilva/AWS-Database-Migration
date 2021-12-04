@@ -121,7 +121,7 @@ once you obtained this endpoint, copy it and go to your pgAdmin Creation Server 
 
 If you are facing some issues by setting it up, I recommend to read these four links, I'm sure that they may help you out :)
 
-a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-unable-to-connect-to-server-timeout-expired)
-b) [Second Link](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html#cfn-rds-dbinstance-publiclyaccessible)
-c) [Third Link](https://stackoverflow.com/questions/61062027/aws-rds-to-pgadmin-error-saving-properties-unable-to-connect-to-server-timeout)
+a) [First Link](https://stackoverflow.com/questions/61181015/postgres-pgadmin-unable-to-connect-to-server-timeout-expired)<br/>
+b) [Second Link](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html#cfn-rds-dbinstance-publiclyaccessible)<br/>
+c) [Third Link](https://stackoverflow.com/questions/61062027/aws-rds-to-pgadmin-error-saving-properties-unable-to-connect-to-server-timeout)<br/>
 
