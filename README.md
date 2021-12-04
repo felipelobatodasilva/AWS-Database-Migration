@@ -236,3 +236,5 @@ let is do a new test for this target endpoint as well it has been done for the s
 As soon as you run this job, you may notice that there will be an error and it has to do with [grants](https://forums.aws.amazon.com/thread.jspa?threadID=333935) as suggested on the available link. Thus, you may need to give grant to the user that is being used for this process, in my case is postgres, then I'll give grants to it.
 
 <img src="https://user-images.githubusercontent.com/69978184/144697323-463a5d96-4d91-47d0-9ef5-857cee79629a.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144700909-2be71f32-4ca2-44c8-9dec-2d84ea488432.png" width="800" height="400"/>
