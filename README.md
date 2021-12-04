@@ -222,3 +222,11 @@ let is do a new test for this target endpoint as well it has been done for the s
 <img src="https://user-images.githubusercontent.com/69978184/144693829-c1441965-e640-400e-95c0-c5f47bed58b6.png" width="800" height="400"/>
 
 ## Run The Task For Migration <a name="formigration"></a>
+
+<img src="https://user-images.githubusercontent.com/69978184/144694218-83f10d0f-b207-42ae-9ea8-3811a3929190.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144694249-2ca6cbd0-28e9-419a-8ff1-a162f70f4d18.png" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/69978184/144694266-0f04abb6-2f86-4e09-9d99-88ccca559141.png" width="800" height="400"/>
+
+
