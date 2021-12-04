@@ -154,3 +154,6 @@ Go to IAM section and click on create a role. After that, select the AWS Service
 
 <img src="https://user-images.githubusercontent.com/69978184/144690966-790bb8e7-a996-4d1b-bb88-86dbb6639de7.png" width="800" height="400"/>
 
+In this step, look for S3 and select "AmazonS3FullAcess"
+
+<img src="https://user-images.githubusercontent.com/69978184/144691199-cfe0b981-329e-4d7c-a1ca-f1f5f37ccb26.png" width="800" height="400"/>
