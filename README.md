@@ -5,7 +5,7 @@ For this migration, We'll use AWS Database Migration Service (DMS) and many othe
 All of these services mentioned recently can be used under AWS Free Tier which offers some different services from AWS for free, in order to explore many of them.
 
 # Table of Contents  
-● [Preparing the environment for the migration](#preparingenvironment)<br/>
+● [Preparing The Environment For The Migration](#preparingenvironment)<br/>
 &emsp;◌ [Creating S3 Bucket](#creatings3bucket)<br/>
 &emsp;◌ [Creating Postgres RDS](#creatingRDS)<br/>
 &emsp;◌ [Launching an EC2 instance](#launchingEC2)<br/>
@@ -14,7 +14,7 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 
 ● [Migrating Data from RDS DB instance to S3](#migratingdatafromRDS)<br/>
 
-# Preparing the environment for the migration <a name="preparingenvironment"></a>
+# Preparing The Environment For The Migration <a name="preparingenvironment"></a>
 
 ## Creating S3 Bucket <a name="creatings3bucket"></a>
 
