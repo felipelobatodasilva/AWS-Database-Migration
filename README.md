@@ -221,7 +221,7 @@ let is do a new test for this target endpoint as well it has been done for the s
 
 <img src="https://user-images.githubusercontent.com/69978184/144693829-c1441965-e640-400e-95c0-c5f47bed58b6.png" width="800" height="400"/>
 
-## Run The Task For Migration <a name="formigration"></a>
+## Create and Run a Task For Migration <a name="formigration"></a>
 
 <img src="https://user-images.githubusercontent.com/69978184/144694218-83f10d0f-b207-42ae-9ea8-3811a3929190.png" width="800" height="400"/>
 
