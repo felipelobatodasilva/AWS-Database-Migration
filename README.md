@@ -9,8 +9,8 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 &emsp;◌ [Creating S3 Bucket](#creatings3bucket)<br/>
 &emsp;◌ [Creating Postgres RDS](#creatingRDS)<br/>
 &emsp;◌ [Launching an EC2 instance](#launchingEC2)<br/>
-&emsp;◌ [Connecting EC2 instance](#connectingEC2)<br/>
 &emsp;◌ [Connecting RDS locally with PGAdmin and Setting up Database](#connectingRDS)<br/>
+<!--&emsp;◌ [Connecting EC2 instance](#connectingEC2)<br/>-->
 
 ● [Migrating Data from RDS DB instance to S3](#migratingdatafromRDS)<br/>
 &emsp;◌ [Creating IAM Role for S3 and RDS](#creatingIAMrole)<br/>
@@ -92,6 +92,7 @@ After that, just follow this [step-by-step guide](https://www.guru99.com/creatin
 
 With its creation, this one will need to have the same VPC, consequently its security group needs to have the same ports 22 and 5432(belonging to Postgres) like on the RDS DB Instance created. To check this out better and how to do this staff correctly, just click on this [link](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/) 
 
+<!--
 ## Connecting to EC2 instance <a name="connectingEC2"></a>
 
 For now, let is connect to our EC2 instance recently create. For that, just go thorugh console and look for EC2 again and select the EC2 by checking the box, thus click on connect button to start the connection
@@ -113,7 +114,7 @@ Do you remember that file.pem generated after EC2 instance creation? Yes, you'll
 After following the step-by-step above, the appearence of your screen will be like:
 
 <img src="https://user-images.githubusercontent.com/69978184/144681178-793cc1b8-2c5e-49ef-ad37-2fd5e78d110e.png" width="800" height="400"/>
-
+-->
 ## Connecting RDS locally with PGAdmin and Setting up Database <a name="connectingRDS"></a>
 
 Start your pgAdmin and create your server in order to connect your RDS DB locally, but before that, go through your RDS DB Instance and check its endpoint
