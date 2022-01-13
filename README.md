@@ -4,7 +4,8 @@ For this migration, We'll use AWS Database Migration Service (DMS) and many othe
 
 All of these services mentioned recently can be used under AWS Free Tier which offers some different services from AWS for free, in order to explore many of them.
 
-# Table of Contents  
+# Table of Contents
+● [Project Overview](#overview)<br/>
 ● [Preparing The Environment For The Migration](#preparingenvironment)<br/>
 &emsp;◌ [Creating S3 Bucket](#creatings3bucket)<br/>
 &emsp;◌ [Creating Postgres RDS](#creatingRDS)<br/>
@@ -17,7 +18,22 @@ All of these services mentioned recently can be used under AWS Free Tier which o
 &emsp;◌ [Creating a Replication Instance on DMS and Endpoints](#creatingreplication)<br/>
 &emsp;◌ [Run The Task For Migration](#formigration)<br/>
 
-# Preparing The Environment For The Migration <a name="preparingenvironment"></a>
+## Project Overview <a name="overview"></a>
+
+For this project, we're gonna use EC2, S3 and RDS as follow with their respective brief explanation, in order to undertand a little bit about what each of them can do and why is used for
+
+[__EC2__](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) -> Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+[__DMS__](https://searchaws.techtarget.com/definition/AWS-Database-Migration-Service-AWS-DMS) -> AWS Database Migration Service (DMS) is a software tool for migrating an on-premises database to the Amazon Web Services cloud. The service aims to reduce the duration of database transfers, which can take months otherwise. AWS DMS can handle homogenous migrations, such as Oracle to Oracle, as well as heterogeneous migrations, such as Oracle to MySQL.
+
+[__RDS__](https://searchaws.techtarget.com/definition/Amazon-Relational-Database-Service-RDS) -> Amazon Relational Database Service (RDS) is a managed SQL database service provided by Amazon Web Services (AWS). Amazon RDS supports an array of database engines to store and organize data. It also helps with relational database management tasks, such as data migration, backup, recovery and patching.
+
+Amazon RDS facilitates the deployment and maintenance of relational databases in the cloud. A cloud administrator uses Amazon RDS to set up, operate, manage and scale a relational instance of a cloud database. Amazon RDS is not itself a database; it is a service used to manage relational databases.
+
+[__S3__](https://medium.com/analytics-vidhya/apache-spark-applications-with-amazon-emr-and-s3-services-using-jupyter-notebook-41968a1c2d7)
+Amazon Simple Storage Service (Amazon S3) offers an object storage service for the internet which is designed to store data (up to 5 terabytes single file) from any kind of source with providing scalability, data availability, security, and performance.
+
+## Preparing The Environment For The Migration <a name="preparingenvironment"></a>
 
 ## Creating S3 Bucket <a name="creatings3bucket"></a>
 
